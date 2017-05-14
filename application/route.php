@@ -22,6 +22,8 @@ return [
     ],
     'login'		=> 'mis/login/login',
 
+    "homepage/getCourseInfo"  => "mis/homepage/getCourseInfo",
+    "homepage/getPropagate"  => "mis/homepage/getPropagate",
 
     "selfInfo/getStudent" => 'mis/selfInfo/getStudent',
     "selfInfo/getTeacher" => 'mis/selfInfo/getTeacher',
